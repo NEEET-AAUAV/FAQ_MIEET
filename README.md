@@ -1,4 +1,3 @@
-# FAQ Reestruturação MIEET
 Esta FAQ tem como objetivo compilar algumas das dúvidas relativas à reestruturação do MIEET
 
 Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](https://goo.gl/forms/LLgkEyHQdqoEMygn2).
