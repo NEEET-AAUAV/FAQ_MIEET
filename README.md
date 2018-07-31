@@ -8,10 +8,10 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 > O novo plano curricular entra em vigor, na sua totalidade, no próximo ano letivo, 2018/2019.
 
 2. Continua a ser possível fazer ERASMUS apenas durante 1 semestre, uma vez que existem cadeiras anuais até à 4ª matrícula?
-Terá de ser analisado caso a caso. Deverás contactar o diretor de curso aquando o pedido de ERASMUS.
+> Terá de ser analisado caso a caso. Deverás contactar o diretor de curso aquando o pedido de ERASMUS.
 
 3.  Já obtive aproveitamento a uma UC do plano curricular antigo. Tenho de frequentar a UC equivalente no novo plano curricular?
-Não. Se já obtiveste aprovação a uma UC do antigo plano curricular não terás de a voltar a repetir.
+> Não. Se já obtiveste aprovação a uma UC do antigo plano curricular não terás de a voltar a repetir.
 
 ## UCs em atraso
 1. Tenho UCs em atraso que irão ser alteradas no novo plano curricular. Que UCs irei fazer?
