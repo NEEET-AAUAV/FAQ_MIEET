@@ -1,9 +1,7 @@
 # FAQ Reestruturação MIEET
 Esta FAQ tem como objetivo compilar algumas das dúvidas relativas à reestruturação do MIEET
 
-## Perguntas
-
-### Geral
+## Geral
 1. Quando entra em vigor o novo plano curricular?
 ```
 O novo plano curricular entra em vigor, na sua totalidade, no próximo ano letivo, 2018/2019.
@@ -19,39 +17,41 @@ Terá de ser analisado caso a caso. Deverás contactar o diretor de curso aquand
 Não. Se já obtiveste aprovação a uma UC do antigo plano curricular não terás de a voltar a repetir.
 ```
 
-### UCs em atraso
+## UCs em atraso
 1. Tenho UCs em atraso que irão ser alteradas no novo plano curricular. Que UCs irei fazer?
 ```
 A tua dúvida será esclarecida com o envio por email do teu plano curricular individual.
 ```
 
-    1. As UCs que possuo em atraso mudam de ano no novo plano curricular. O que irá acontecer ao meu plano curricular?
-    ```
-    A tua dúvida será esclarecida com o envio por email do teu plano curricular individual.
-    ```
+2. As UCs que possuo em atraso mudam de ano no novo plano curricular. O que irá acontecer ao meu plano curricular?
 
-2. Não tenho UCs em atraso. Tenho de realizar as UCs novas dos anos anteriores?
+```
+A tua dúvida será esclarecida com o envio por email do teu plano curricular individual.
+```
+
+3. Não tenho UCs em atraso. Tenho de realizar as UCs novas dos anos anteriores?
 ```
 Não. A reestruturação de curso não afeta os anos que já tenhas completado na totalidade.
 ```
 
-    1. Já completei o 2º ano. Tenho de realizar a UC de Redes e Telecomunicações?
-    ```
-    Não. A reestruturação de curso não afeta os anos que já tenhas completado na totalidade.
-    ```
+4. Já completei o 2º ano. Tenho de realizar a UC de Redes e Telecomunicações?
 
-3. O que acontece à diferença de ECTS uma vez que as UCs de 8 ECTS passarão a 6 ECTS?
+```
+Não. A reestruturação de curso não afeta os anos que já tenhas completado na totalidade.
+```
+
+5. O que acontece à diferença de ECTS uma vez que as UCs de 8 ECTS passarão a 6 ECTS?
 ```
 Continuas a possuir o número de ECTS que realizaste, isto é, "não perdes ECTS" pelo facto de teres feito uma UC que valia 8 ECTS no plano curricular antigo e que no novo plano curricular passará a valer 6 ECTS.
 ```
 
-4. Tenho UCs em atraso cujo número de ECTS irá mudar com a reestruturação de curso. O que acontece à diferença de ECTS?
+6. Tenho UCs em atraso cujo número de ECTS irá mudar com a reestruturação de curso. O que acontece à diferença de ECTS?
 ```
 Se ainda não obtiveste aproveitamento à UC, terás que a repetir à luz do novo plano curricular, logo ser-te-ão creditados os ECTS da UC no novo plano curricular.
 A diferença de ECTS entre o plano curricular antigo e o novo será afeta cada aluno de forma individual, logo consulta o teu novo plano curricular individual.
 ```
 
-5. Se tiver UCs em atraso de um ano letivo tenho de realizar a UC anual?
+7. Se tiver UCs em atraso de um ano letivo tenho de realizar a UC anual?
 ```
 A tua dúvida será esclarecida com o envio por email do teu plano curricular individual.
 ```
@@ -74,12 +74,12 @@ Deverás ter em consideração que as UCs de perfis diferentes a que já obtives
 Existe uma correspondência direta entre as UCs do antigo plano curricular e as UCs do novo plano curricular. Como apresentado na tabela abaixo, as UCs do antigo plano curricular irão substituir as opções correspondente no novo plano. Aquando a receção do teu novo plano curricular individual deverás analisar as correspondências propostas e caso essas não te sejam favoráveis, deverás contactar o diretor de curso.
 ```
 
-UC do antigo Plano Curricular     UC do novo Plano Curricular
-------------------------------  ---------------------------------
-Eletrónica III                        Opção II
-Sistemas de Operação                  Opção III
-Sistemas de Controlo II               Opção IV
-Antenas e Guias de Onda               Opção V
+| UC do antigo Plano Curricular |    UC do novo Plano Curricular    |
+|:------------------------------|:---------------------------------:|
+|Eletrónica III                 |        Opção II                   |
+|Sistemas de Operação           |        Opção III                  |
+|Sistemas de Controlo II        |        Opção IV                   |
+|Antenas e Guias de Onda        |        Opção V                    |
 
 ## Opções 5º ano
 1. Obtive aprovação a uma UC de opção de 5º ano. Poderei ter equivalência à opção livre?
@@ -116,4 +116,3 @@ Em nada. A prescrição depende exclusivamente do nº de ECTS feitos, logo a ree
 Não. O acesso à Época Especial é apenas para alunos finalistas. Não serão abertas exceções para alunos não finalistas devido à reestruturação de curso.
 ```
 
-3. Sou finalista e tenho mais de 2 UCs em atraso.
