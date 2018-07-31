@@ -3,8 +3,8 @@ Esta FAQ tem como objetivo compilar algumas das dúvidas relativas à reestrutur
 
 Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](https://goo.gl/forms/LLgkEyHQdqoEMygn2).
 
-## Geral
-1. Quando entra em vigor o novo plano curricular?
+# Geral
+1. **Quando entra em vigor o novo plano curricular?**
 > O novo plano curricular entra em vigor, na sua totalidade, no próximo ano letivo, 2018/2019.
 
 2. Continua a ser possível fazer ERASMUS apenas durante 1 semestre, uma vez que existem cadeiras anuais até à 4ª matrícula?
@@ -13,7 +13,7 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 3.  Já obtive aproveitamento a uma UC do plano curricular antigo. Tenho de frequentar a UC equivalente no novo plano curricular?
 > Não. Se já obtiveste aprovação a uma UC do antigo plano curricular não terás de a voltar a repetir.
 
-## UCs em atraso
+# UCs em atraso
 1. Tenho UCs em atraso que irão ser alteradas no novo plano curricular. Que UCs irei fazer?
 > A tua dúvida será esclarecida com o envio por email do teu plano curricular individual.
 
@@ -36,7 +36,7 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 7. Se tiver UCs em atraso de um ano letivo tenho de realizar a UC anual?
 > A tua dúvida será esclarecida com o envio por email do teu plano curricular individual.
 
-## Perfis
+# Perfis
 1. Tenho UCs de 4º ano em atraso. Tenho de escolher um perfil?
 > Só terás de escolher um perfil se possuires pelo menos uma UC em atraso que pertença a um perfil. Nota que não és obrigado a escolher o perfil corresponde à(s) UC(s) em atraso.
 > Caso as UCs em atraso sejam do tronco comum não é necessário a escolha do perfil.
@@ -55,23 +55,23 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 |Sistemas de Controlo II        |        Opção IV                   |
 |Antenas e Guias de Onda        |        Opção V                    |
 
-## Opções 5º ano
+# Opções 5º ano
 1. Obtive aprovação a uma UC de opção de 5º ano. Poderei ter equivalência à opção livre?
 > Sim. Qualquer disciplina do 2º ciclo pode ser uma opção livre. Após receber o seu plano individual contacte o diretor de curso.
 
 2. Obtive aprovação a uma UC de opção de 5º ano que no novo plano curricular pertence a um perfil. Tenho equivalência à UC do perfil ou a uma das UCs de opção do 5º ano?
 > A tua dúvida será esclarecida com o envio por email do teu plano curricular individual. Para esclarecimentos adicionais deves contactar o diretor de Curso após receberes o teu plano curricular individual.
 
-## Manutenção de notas práticas
+# Manutenção de notas práticas
 1. No caso de ter obtido aproveitamento à componente prática de uma UC, a nota prática mantem-se com a reestruturação do curso?
 > Segundo o Regulamento de Estudos a manutenção das notas das componentes é da exclusiva responsabilidade dos regentes das UCs. O esclarecimento deverá ser feito com o regente da UC no início do ano letivo.
 
-## Estágio
+# Estágio
 1. É possível realizar estágio já neste ano letivo?
 > Não. O novo curso permite essa possibilidade mas o Departamento ainda está a preparar esta opção.
 > Poderão existir casos excecionais que deverão ser submetidos à análise do diretor de Curso.
 
-## Prescrição e Época Especial
+# Prescrição e Época Especial
 1. Qual a influência da reestruturação de curso em situações de prescrição?
 > Em nada. A prescrição depende exclusivamente do nº de ECTS feitos, logo a reestruturação curricular não tem qualquer impacto.
 
