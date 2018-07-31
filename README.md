@@ -26,7 +26,6 @@ A tua dúvida será esclarecida com o envio por email do teu plano curricular in
 ```
 
 2. As UCs que possuo em atraso mudam de ano no novo plano curricular. O que irá acontecer ao meu plano curricular?
-
 ```
 A tua dúvida será esclarecida com o envio por email do teu plano curricular individual.
 ```
@@ -37,7 +36,6 @@ Não. A reestruturação de curso não afeta os anos que já tenhas completado n
 ```
 
 4. Já completei o 2º ano. Tenho de realizar a UC de Redes e Telecomunicações?
-
 ```
 Não. A reestruturação de curso não afeta os anos que já tenhas completado na totalidade.
 ```
