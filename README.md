@@ -61,7 +61,7 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 2. **Obtive aprovação a uma UC de opção de 5º ano que no novo plano curricular pertence a um perfil. Tenho equivalência à UC do perfil ou a uma das UCs de opção do 5º ano?**
 > A tua dúvida será esclarecida com o envio por email do teu plano curricular individual. Para esclarecimentos adicionais deves contactar o diretor de Curso após receberes o teu plano curricular individual.
 
-# Manutenção de notas práticas
+# Conservação das notas práticas
 1. **No caso de ter obtido aproveitamento à componente prática de uma UC, a nota prática mantem-se com a reestruturação do curso?**
 > Segundo o Regulamento de Estudos a manutenção das notas das componentes é da exclusiva responsabilidade dos regentes das UCs. O esclarecimento deverá ser feito com o regente da UC no início do ano letivo.
 
@@ -70,11 +70,12 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 > Não. O novo curso permite essa possibilidade mas o Departamento ainda está a preparar esta opção.
 > Poderão existir casos excecionais que deverão ser submetidos à análise do diretor de Curso.
 
-# Prescrição e Época Especial
+# Prescrição 
 1. **Qual a influência da reestruturação de curso em situações de prescrição?**
 > Nenhuma. A prescrição depende exclusivamente do nº de ECTS feitos, logo a reestruturação curricular não tem qualquer impacto.
 
-2. **Se não for finalista tenho acesso à Época Especial devido à reestruturação de curso?**
+# Época Especial
+1. **Se não for finalista tenho acesso à Época Especial devido à reestruturação de curso?**
 > Não. O acesso à Época Especial é apenas para alunos finalistas. Não serão abertas exceções para alunos não finalistas devido à reestruturação de curso.
 
 
