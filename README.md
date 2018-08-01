@@ -1,6 +1,6 @@
 Esta FAQ tem como objetivo compilar algumas das dúvidas relativas à reestruturação do MIEET
 
-Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](https://goo.gl/forms/LLgkEyHQdqoEMygn2).
+Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](https://goo.gl/forms/DO8DFzYnITYAkO4f1).
 
 # Geral
 1. **Quando entra em vigor o novo plano curricular?**
