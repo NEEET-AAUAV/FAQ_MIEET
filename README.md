@@ -1,6 +1,38 @@
-Esta FAQ tem como objetivo compilar algumas das dúvidas relativas à reestruturação do MIEET
+Esta FAQ tem como objetivo compilar algumas das dúvidas relativas à reestruturação do MIEET e fornecer mais algumas informações de interesse.
 
 Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](https://goo.gl/forms/DO8DFzYnITYAkO4f1).
+
+# Informações
+
+## Matrículas
+- Todos os alunos, exceto finalistas, devem inscrever-se no PACO para o próximo ano letivo.
+	- Data: 29 Agosto a 3 de setembro.
+	- **Se não o fizerem não é aplicada a reestruturação de curso ao vosso plano curricular e não se podem inscrever às UCs.**
+- Irão existir dois dias para escolha de horários e inscrições em UCs:
+	- Dia de inscrições manuais no DETI: 17 de setembro.
+	- **Dia de inscrições manuais extraordinário para o MIEET: 14 de setembro.**
+		- Os estudantes que compareçam no dia 14 de setembro terão prioridade na escolha de horários.
+- As UCs que irás frequentar não dependerão da tua preferência. Será o diretor de curso juntamente com a equipa de docentes responsáveis pela reestruturação de curso, a escolher as UCs que irás realizar do novo plano curricular. 
+	- Quando efetuarem a inscrição no Paco não será possível escolher todas as UCs do novo plano curricular, porque a mudança ainda não vos foi aplicada
+	- Após o aluno finalizar o processo de matrícula, o seu plano curricular irá sofrer a reestruturação.
+		- As UCs do plano curricular antigo serão removidas e serás inscrito nas novas UCs. 
+		- Devido ás limitações do PACO este processo é semiautomático e não poderás escolher as UCs que preferes frequentar.
+	- Casos em que as UCs inscritas façam com que o aluno possua sobreposições ou outros casos bem justificados serão revistos pelo diretor de curso no dia 14 de Setembro.
+
+## Finalistas
+- São considerados alunos finalistas os alunos que, apenas falte apresentar a dissertação e/ou obter aproveitamento a UCs que frequentaram este semestre para obter o grau de Mestre.
+- **Não se devem inscrever no PACO.**
+- **A reestruturação de curso não vos irá afetar.**
+- Podem realizar, excecionalmente este ano letivo, 4 exames na época especial.
+	- Até dois exames,a inscrição deve ser efetuada normalmente, através do PACO.
+	- Para o 3º e/ou 4º exame, a inscrição deve ser efetuada manualmente na secretaria do DETI na última semana de agosto
+
+
+## Opção Livre 5º ano
+- A inscrição de estudantes do MIEET nas UCs de outros departamentos foi favoravelmente aceite pelos diretores das unidades orgânicas, à exceção do Departamento de Mecânica, devido ao elevado número de interessados.
+- Ainda não está garantida a existência de vagas para todos os estudantes interessados nem para todas as UCs.
+- Esta informação será atualizada em inícios de setembro.
+
 
 # Geral
 1. **Quando entra em vigor o novo plano curricular?**
@@ -37,7 +69,7 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 
 # Perfis
 1. **Tenho UCs de 4º ano em atraso. Tenho de escolher um perfil?**
-> Só terás de escolher um perfil se possuires pelo menos uma UC em atraso que pertença a um perfil. Nota que não és obrigado a escolher o perfil corresponde à(s) UC(s) em atraso.
+> Só terás de escolher um perfil se possuíres pelo menos uma UC em atraso que pertença a um perfil. Nota que não és obrigado a escolher o perfil corresponde à(s) UC(s) em atraso.
 > Caso as UCs em atraso sejam do tronco comum não é necessário a escolha do perfil.
 
 2. **Já obtive aprovação a UCs de perfis diferentes. Como devo proceder na escolha do perfil?**
@@ -54,6 +86,8 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 |Sistemas de Controlo II        |        Opção IV                   |
 |Antenas e Guias de Onda        |        Opção V                    |
 
+4. **Posso trocar de perfil no ano letivo de 2019/2020?**
+- Não, não é possível trocar de perfil.. A escolha de um perfil é definitiva.
 # Mudança de UCs de anos letivos
 1. Vou transitar para o 3º ano com o 2º ano completo. Como duas das UCs de 2º ano no plano curricular antigo mudam para o 3º ano do novo plano curricular, no próximo ano letivo realizarei menos 12 ECTS?
 > Não, o teu plano curricular terá sempre, no mínimo, 60 ECTS por ano letivo. 
