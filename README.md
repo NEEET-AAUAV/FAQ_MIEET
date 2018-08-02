@@ -54,6 +54,11 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 |Sistemas de Controlo II        |        Opção IV                   |
 |Antenas e Guias de Onda        |        Opção V                    |
 
+# Mudança de UCs de anos letivos
+1. Vou transitar para o 3º ano com o 2º ano completo. Como duas das UCs de 2º ano no plano curricular antigo mudam para o 3º ano do novo plano curricular, no próximo ano letivo realizarei menos 12 ECTS?
+> Não, o teu plano curricular terá sempre, no mínimo, 60 ECTS por ano letivo. 
+> Uma vez que não podes repetir as UCs a que já obtiveste aproveitamento, Campo Electromagnético e Tópicos de Física de Estado Sólido, deverás realizar Fundamentos em Eletrotecnica e Redes e Telecomunicações. Como as UCs são ambas de segundo semestre, no próximo ano letivo (2018/2019) Redes e Telecomunicações será lecionada excecionalmente no 1º e 2º semestre
+
 # Opções 5º ano
 1. **Obtive aprovação a uma UC de opção de 5º ano. Poderei ter equivalência à opção livre?**
 > Sim. Qualquer disciplina do 2º ciclo pode ser uma opção livre. Após receber o seu plano individual contacte o diretor de curso.
