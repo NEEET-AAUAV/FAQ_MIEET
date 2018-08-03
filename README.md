@@ -56,18 +56,16 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 
 3. **Não tenho UCs em atraso. Tenho de realizar as UCs novas dos anos anteriores?**
 > Não. A reestruturação de curso não afeta os anos que já tenhas completado na totalidade.
+> Excecionalmente, nese ano letivo, os alunos que transitam para o terceiro ano com o segundo ano completo devem ver a pergunta 1 do tópico _Mudança de UCs de anos letivos_.
 
-4. **Já completei o 2º ano. Tenho de realizar a UC de Redes e Telecomunicações?**
-> Não. A reestruturação de curso não afeta os anos que já tenhas completado na totalidade.
-
-5. **O que acontece à diferença de ECTS uma vez que as UCs de 8 ECTS passarão a 6 ECTS?**
+4. **O que acontece à diferença de ECTS uma vez que as UCs de 8 ECTS passarão a 6 ECTS?**
 > Continuas a possuir o número de ECTS que realizaste, isto é, "não perdes ECTS" pelo facto de teres feito uma UC que valia 8 ECTS no plano curricular antigo e que no novo plano curricular passará a valer 6 ECTS.
 
-6. **Tenho UCs em atraso cujo número de ECTS irá mudar com a reestruturação de curso. O que acontece à diferença de ECTS?**
+5. **Tenho UCs em atraso cujo número de ECTS irá mudar com a reestruturação de curso. O que acontece à diferença de ECTS?**
 > Se ainda não obtiveste aproveitamento à UC, terás que a repetir à luz do novo plano curricular, logo ser-te-ão creditados os ECTS da UC no novo plano curricular.
 > A diferença de ECTS entre o plano curricular antigo e o novo será afeta cada aluno de forma individual, logo consulta o teu novo plano curricular individual.
 
-7. **Se tiver UCs em atraso de um ano letivo tenho de realizar a UC anual?**
+6. **Se tiver UCs em atraso de um ano letivo tenho de realizar a UC anual?**
 > A tua dúvida será esclarecida com o envio por email do teu plano curricular individual.
 
 # Perfis
@@ -94,9 +92,9 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 
 
 # Mudança de UCs de anos letivos
-1. Vou transitar para o 3º ano com o 2º ano completo. Como duas das UCs de 2º ano no plano curricular antigo mudam para o 3º ano do novo plano curricular, no próximo ano letivo realizarei menos 12 ECTS?
+1. **Vou transitar para o 3º ano com o 2º ano completo. Como duas das UCs de 2º ano no plano curricular antigo mudam para o 3º ano do novo plano curricular, no próximo ano letivo realizarei menos 12 ECTS?**
 > Não, o teu plano curricular terá sempre, no mínimo, 60 ECTS por ano letivo. 
-> Uma vez que não podes repetir as UCs a que já obtiveste aproveitamento, Campo Electromagnético e Tópicos de Física de Estado Sólido, deverás realizar Fundamentos em Eletrotécnica e Redes e Telecomunicações. Como as UCs são ambas de segundo semestre, no próximo ano letivo (2018/2019) Redes e Telecomunicações será lecionada excecionalmente no 1º e 2º semestre
+> Uma vez que não podes repetir as UCs a que já obtiveste aproveitamento, Campo Electromagnético e Tópicos de Física de Estado Sólido, deverás realizar Fundamentos em Eletrotécnica e Redes e Telecomunicações. Como as UCs são ambas de 2º semestre, no próximo ano letivo (2018/2019) Redes e Telecomunicações será lecionada excecionalmente no 1º e 2º semestre.
 
 # Opções 5º ano
 1. **Obtive aprovação a uma UC de opção de 5º ano. Poderei ter equivalência à opção livre?**
