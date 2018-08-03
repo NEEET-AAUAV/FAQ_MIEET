@@ -79,7 +79,10 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 > A escolha do perfil é independente das UCs a que obtiveste ou não aprovação.
 > Deverás ter em consideração que as UCs de perfis diferentes a que já obtiveste aprovação irão substituir as UCs de opção do perfil que escolheres.
 
-3. **Obtive aproveitamento a UCs de perfis diferentes, assim sendo só terei que frequentar 'N' UCs do perfil que escolhi. Como posso escolher as UCs que desejo frequentar?**
+3. **Posso trocar de perfil no ano letivo de 2019/2020?**
+> Não, não é possível trocar de perfil. A escolha de um perfil é definitiva.
+
+4. **Obtive aproveitamento a UCs de perfis diferentes, assim sendo só terei que frequentar 'N' UCs do perfil que escolhi. Como posso escolher as UCs que desejo frequentar?**
 > Existe uma correspondência direta entre as UCs do antigo plano curricular e as UCs do novo plano curricular. Como apresentado na tabela abaixo, as UCs do antigo plano curricular irão substituir as opções correspondente no novo plano. Aquando a recepção do teu novo plano curricular individual deverás analisar as correspondências propostas e caso essas não te sejam favoráveis, deverás contactar o diretor de curso.
 
 | UC do antigo Plano Curricular |    UC do novo Plano Curricular    |
@@ -89,8 +92,6 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 |Sistemas de Controlo II        |        Opção IV                   |
 |Antenas e Guias de Onda        |        Opção V                    |
 
-4. **Posso trocar de perfil no ano letivo de 2019/2020?**
-> Não, não é possível trocar de perfil.. A escolha de um perfil é definitiva.
 
 # Mudança de UCs de anos letivos
 1. Vou transitar para o 3º ano com o 2º ano completo. Como duas das UCs de 2º ano no plano curricular antigo mudam para o 3º ano do novo plano curricular, no próximo ano letivo realizarei menos 12 ECTS?
