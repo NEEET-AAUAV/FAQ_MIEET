@@ -56,7 +56,7 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 
 3. **Não tenho UCs em atraso. Tenho de realizar as UCs novas dos anos anteriores?**
 > Não. A reestruturação de curso não afeta os anos que já tenhas completado na totalidade.
-> Excecionalmente, nese ano letivo, os alunos que transitam para o terceiro ano com o segundo ano completo devem ver a pergunta 1 do tópico _Mudança de UCs de anos letivos_.
+> Excecionalmente, neste ano letivo, os alunos que transitam para o 3º ano com o 2º ano completo devem ver a pergunta nº1 do tópico _Mudança de UCs de anos letivos_.
 
 4. **O que acontece à diferença de ECTS uma vez que as UCs de 8 ECTS passarão a 6 ECTS?**
 > Continuas a possuir o número de ECTS que realizaste, isto é, "não perdes ECTS" pelo facto de teres feito uma UC que valia 8 ECTS no plano curricular antigo e que no novo plano curricular passará a valer 6 ECTS.
