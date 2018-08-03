@@ -90,7 +90,7 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 |Antenas e Guias de Onda        |        Opção V                    |
 
 4. **Posso trocar de perfil no ano letivo de 2019/2020?**
-- Não, não é possível trocar de perfil.. A escolha de um perfil é definitiva.
+> Não, não é possível trocar de perfil.. A escolha de um perfil é definitiva.
 
 # Mudança de UCs de anos letivos
 1. Vou transitar para o 3º ano com o 2º ano completo. Como duas das UCs de 2º ano no plano curricular antigo mudam para o 3º ano do novo plano curricular, no próximo ano letivo realizarei menos 12 ECTS?
