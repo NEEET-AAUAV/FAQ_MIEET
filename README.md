@@ -44,6 +44,9 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 3. **Já obtive aproveitamento a uma UC do plano curricular antigo. Tenho de frequentar a UC equivalente no novo plano curricular?**
 > Não. Se já obtiveste aprovação a uma UC do antigo plano curricular não terás de a voltar a repetir.
 
+4. **AC1 e AC2 são UCs partilhadas com o curso de CT, valendo 8 ECTS em MIECT e passarão a valer 6 ECTS no novo MIEET. Assim sendo, irá existir alguma mudança no plano curricular das UCs?**
+> Sim. As UCs  serão ajustadas devido à diferença de ECTS entre MIECT e MIEET.
+
 # UCs em atraso
 1. **Tenho UCs em atraso que irão ser alteradas no novo plano curricular. Que UCs irei fazer?**
 > A tua dúvida será esclarecida com o envio por email do teu plano curricular individual.
@@ -77,7 +80,7 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 > Deverás ter em consideração que as UCs de perfis diferentes a que já obtiveste aprovação irão substituir as UCs de opção do perfil que escolheres.
 
 3. **Obtive aproveitamento a UCs de perfis diferentes, assim sendo só terei que frequentar 'N' UCs do perfil que escolhi. Como posso escolher as UCs que desejo frequentar?**
-> Existe uma correspondência direta entre as UCs do antigo plano curricular e as UCs do novo plano curricular. Como apresentado na tabela abaixo, as UCs do antigo plano curricular irão substituir as opções correspondente no novo plano. Aquando a receção do teu novo plano curricular individual deverás analisar as correspondências propostas e caso essas não te sejam favoráveis, deverás contactar o diretor de curso.
+> Existe uma correspondência direta entre as UCs do antigo plano curricular e as UCs do novo plano curricular. Como apresentado na tabela abaixo, as UCs do antigo plano curricular irão substituir as opções correspondente no novo plano. Aquando a recepção do teu novo plano curricular individual deverás analisar as correspondências propostas e caso essas não te sejam favoráveis, deverás contactar o diretor de curso.
 
 | UC do antigo Plano Curricular |    UC do novo Plano Curricular    |
 |:------------------------------|:---------------------------------:|
@@ -88,10 +91,11 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 
 4. **Posso trocar de perfil no ano letivo de 2019/2020?**
 - Não, não é possível trocar de perfil.. A escolha de um perfil é definitiva.
+
 # Mudança de UCs de anos letivos
 1. Vou transitar para o 3º ano com o 2º ano completo. Como duas das UCs de 2º ano no plano curricular antigo mudam para o 3º ano do novo plano curricular, no próximo ano letivo realizarei menos 12 ECTS?
 > Não, o teu plano curricular terá sempre, no mínimo, 60 ECTS por ano letivo. 
-> Uma vez que não podes repetir as UCs a que já obtiveste aproveitamento, Campo Electromagnético e Tópicos de Física de Estado Sólido, deverás realizar Fundamentos em Eletrotecnica e Redes e Telecomunicações. Como as UCs são ambas de segundo semestre, no próximo ano letivo (2018/2019) Redes e Telecomunicações será lecionada excecionalmente no 1º e 2º semestre
+> Uma vez que não podes repetir as UCs a que já obtiveste aproveitamento, Campo Electromagnético e Tópicos de Física de Estado Sólido, deverás realizar Fundamentos em Eletrotécnica e Redes e Telecomunicações. Como as UCs são ambas de segundo semestre, no próximo ano letivo (2018/2019) Redes e Telecomunicações será lecionada excecionalmente no 1º e 2º semestre
 
 # Opções 5º ano
 1. **Obtive aprovação a uma UC de opção de 5º ano. Poderei ter equivalência à opção livre?**
@@ -112,6 +116,9 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 # Prescrição 
 1. **Qual a influência da reestruturação de curso em situações de prescrição?**
 > Nenhuma. A prescrição depende exclusivamente do nº de ECTS feitos, logo a reestruturação curricular não tem qualquer impacto.
+
+2. **Estive prescrito este ano letivo. Como faço para receber o meu plano curricular individual?**
+> Só obterás o teu plano curricular individual após efetuares inscrição no PACO. Devido a não estares matriculado no ano letivo corrente (2017/2018) não é possível ao diretor de curso aceder ao teu plano curricular individual.
 
 # Época Especial
 1. **Se não for finalista tenho acesso à Época Especial devido à reestruturação de curso?**
