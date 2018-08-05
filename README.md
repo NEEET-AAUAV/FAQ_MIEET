@@ -33,6 +33,9 @@ Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](h
 - Ainda não está garantida a existência de vagas para todos os estudantes interessados nem para todas as UCs.
 - Esta informação será atualizada em inícios de setembro.
 
+## Perfis
+- No início de setembro será indicado o perfil no qual cada aluno foi colocado.
+- Em princípio, todos os alunos serão colocados na sua 1ª opção de perfil.
 
 # Geral
 1. **Quando entra em vigor o novo plano curricular?**
