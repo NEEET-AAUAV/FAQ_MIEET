@@ -1,6 +1,6 @@
 Esta FAQ tem como objetivo compilar algumas das dúvidas relativas à reestruturação do MIEET e fornecer mais algumas informações de interesse.
 
-Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](https://goo.gl/forms/DO8DFzYnITYAkO4f1). A resposta a questões só será retomada após o período de férias do DETI.
+Para qualquer dúvida que não esteja coberta nesta FAQ usa este [formulário](https://goo.gl/forms/DO8DFzYnITYAkO4f1). A resposta às questões só será retomada após o período de férias do DETI.
 
 # Informações
 
